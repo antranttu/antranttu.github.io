@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | An Tran</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu79431c8a1b6b5a686654340086a636f0_24518_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>DIGIT RECOGNITION WITH SIFT</title>
+      <link>/project/digit-recognition-sift/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/digit-recognition-sift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EARLY SEPSIS PREDICTOR</title>
+      <link>/project/early-sepsis-predictor/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/early-sepsis-predictor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INSTAGRAM GENUINENESS</title>
+      <link>/project/instagram-genuineness/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/instagram-genuineness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MNIST</title>
+      <link>/project/mnist/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/mnist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SENTIMENT ANALYSIS IN MOVIE REVIEWS</title>
+      <link>/project/movie-sentiment-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/movie-sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SENTIMENT ANALYSIS OF TWEETS</title>
+      <link>/project/tweet-sentiment-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/tweet-sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOXIC COMMENT CLASSIFICATION</title>
+      <link>/project/toxic-comment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/toxic-comment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WIRELESS ECG MONITOR</title>
+      <link>/project/wireless-ecg/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/wireless-ecg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WORK-RELATED INJURIES CLASSIFICATION</title>
+      <link>/project/injuries-classification/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/injuries-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | An Tran</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu79431c8a1b6b5a686654340086a636f0_24518_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Data Science for Good: Workshop 2 - Getting Started with R and RStudio</title>
+      <link>/talk/october2020_workshop2/</link>
+      <pubDate>Sat, 24 Oct 2020 10:00:00 +0000</pubDate>
+      <guid>/talk/october2020_workshop2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
